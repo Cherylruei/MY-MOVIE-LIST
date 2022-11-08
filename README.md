@@ -1,5 +1,5 @@
 # MY-MOVIE-LIST
-The simple web page to review your movie list.
+The simple web page to review your movies list.
 
 ## Features
 - listing movies from movie api
